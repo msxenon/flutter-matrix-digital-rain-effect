@@ -1,0 +1,35 @@
+{
+    "name": "matrix_digital_rain_effect",
+    "short_name": "matrix_digital_rain_effect",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Flutter Matrix Digital Rain is a mesmerizing visual display inspired by the iconic Matrix movie. This Flutter-based project creates a simulation of the cascading green characters seen in the film, with the added feature of user interactivity. Users can tap on the screen to generate a burst of digital rain, or swipe to change the direction of the falling characters. The project utilizes GraphX's optimized rendering engine to ensure smooth performance even on low-end devices. With its sleek design and intuitive user experience, Flutter Matrix Digital Rain is sure to delight both fans of the Matrix and tech enthusiasts alike.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

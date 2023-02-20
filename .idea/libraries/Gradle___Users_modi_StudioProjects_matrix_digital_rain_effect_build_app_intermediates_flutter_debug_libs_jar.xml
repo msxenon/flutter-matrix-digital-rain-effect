@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: /Users/modi/StudioProjects/matrix_digital_rain_effect/build/app/intermediates/flutter/debug/libs.jar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
