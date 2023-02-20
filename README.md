@@ -1,6 +1,6 @@
 # (Flutter) Matrix digital rain effect
 
-Flutter Matrix Digital Rain is a mesmerizing visual display inspired by the iconic Matrix movie. This Flutter-based project creates a simulation of the cascading green characters seen in the film, with the added feature of user interactivity. Users can tap on the screen to generate a burst of digital rain, or swipe to change the direction of the falling characters. The project utilizes GraphX's optimized rendering engine to ensure smooth performance even on low-end devices. With its sleek design and intuitive user experience, Flutter Matrix Digital Rain is sure to delight both fans of the Matrix and tech enthusiasts alike.
+Welcome to Flutter Matrix Digital Rain, a captivating visual display inspired by the famous Matrix movie. This project, built with Flutter, allows users to interact with a simulation of the iconic cascading green characters seen in the film. The optimized rendering engine provided by GraphX ensures smooth performance even on low-end devices. With its modern design and user-friendly interface, Flutter Matrix Digital Rain is a must-see for fans of the Matrix and technology enthusiasts alike.
 
 # Screenshot
 
