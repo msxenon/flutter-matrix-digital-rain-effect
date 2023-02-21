@@ -6,7 +6,7 @@ Welcome to Flutter Matrix Digital Rain, a captivating visual display inspired by
 
 <img width="497" alt="Screenshot 2023-02-20 at 14 27 03" src="https://user-images.githubusercontent.com/10958931/220121557-ea492ce4-8ee8-4ae9-bd28-b81549045321.png">
 
-[Online Demo Rady](https://msxenon.github.io/flutter-matrix-digital-rain-effect/#/)
+[Online Demo Rady](https://msxenon.github.io/flutter-matrix-digital-rain-effect/)
 
 # Important notice
 Please note that this software may have some known issues. While it runs smoothly on phones and tablets, it may experience some lag on larger screens such as webpages or desktop apps.
