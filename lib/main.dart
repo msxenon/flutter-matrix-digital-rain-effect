@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+// ignore: depend_on_referenced_packages
+import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:matrix_digital_rain_effect/src/presentation/matrix_digital_rain/matrix_scene.dart';
 
 void main() {
+  usePathUrlStrategy();
   runApp(const MyApp());
 }
 
@@ -34,7 +37,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       backgroundColor: Colors.black,
-      body: const Center(
+      body: const Align(
+        alignment: Alignment.topCenter,
         child: SizedBox(
           width: 375,
           height: 815,
