@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: subosito/flutter-action@v2
-      - run: flutter build web --release --base-href /flutter-matrix-digital-rain-effect/
+      - run: flutter build web --web-renderer canvaskit --release --base-href /flutter-matrix-digital-rain-effect/
       - run: git config user.name github-actions
       - run: git config user.email github-actions@github.com
       - run: git --work-tree build/web add --all
