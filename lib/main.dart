@@ -33,7 +33,14 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: const MatrixScene(),
+      backgroundColor: Colors.black,
+      body: const Center(
+        child: SizedBox(
+          width: 375,
+          height: 815,
+          child: MatrixScene(),
+        ),
+      ),
     );
   }
 }
