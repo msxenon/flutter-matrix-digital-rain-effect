@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  webview_flutter_web: ^0.2.2
   graphx: ^1.0.9
 
 dev_dependencies:
